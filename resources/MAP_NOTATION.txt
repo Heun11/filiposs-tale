@@ -1,0 +1,19 @@
+MAPA:
+    Back layer:
+        0 -> nic
+        1 -> tehlove pozadie
+    Ground layer:
+        0 -> nic
+        1-9 -> tehly
+        10-18 -> dreva
+        19-22 -> drevo tehla
+    Decor layer:
+        0 -> nic
+        1 -> sud
+        2 -> krabica
+        3 -> mach
+        4 -> retaze
+        5 -> vlajka
+        6 -> dvere (vchod (zavrete))
+
+- ak je tam rozmedzie (10-19), cislo je podla polohy v tilesete, ak je cislo 2 v rade tak je 12 (v tomto pripade)
